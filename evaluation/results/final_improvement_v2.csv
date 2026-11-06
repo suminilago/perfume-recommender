@@ -1,0 +1,3 @@
+﻿model_family,baseline_hr_at_10,tuned_hr_at_10,improvement_pp,baseline_hits,tuned_hits,additional_hits
+Content-based,0.04666666666666667,0.06333333333333334,1.666666666666667,14,19,5
+Item-based KNN,0.05333333333333334,0.056666666666666664,0.3333333333333327,16,17,1

@@ -1,0 +1,2461 @@
+﻿evaluation_type,model,user_id,relevant_count,recommended_count,hits,hit_rate_at_10,precision_at_10,recall_at_10,has_recommendation
+candidate_eligible,Content-based Baseline,atr:user:10391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:10734,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:10942,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:11703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:1195,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:13098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:14163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:15454,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:17392,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:17448,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:17843,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:18041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:18054,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:1808,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:18182,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:18786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:19294,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20469,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20480,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20914,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:20980,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:21020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21067,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21075,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21229,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21301,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21444,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21527,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21623,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:21834,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:22435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:22451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:23025,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:23156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:23607,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:23703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:23805,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:23896,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:24077,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:24208,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:24405,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:25520,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:25538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:25952,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:2602,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26143,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26445,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26449,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:26585,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26646,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26814,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:26951,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:27080,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:27092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:27867,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:27908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:28525,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:28746,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29023,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29596,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29617,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:29996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:30224,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:30333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:30590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:3090,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:32237,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:32456,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:32781,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:33590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34412,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34750,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:34839,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:35298,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:35488,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:35537,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:357,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:35715,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36084,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36172,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36280,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36604,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:36946,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:3698,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:37097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:37215,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:37359,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:37761,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38148,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38316,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38428,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38770,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38771,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38799,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:38920,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:39452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:39659,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:39889,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:39989,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:40192,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:40451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:40610,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:40686,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:40716,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:42009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:42786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:42800,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:43115,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:43206,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:43748,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:43945,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:44010,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:44259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:44664,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:44785,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:44828,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:45319,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:46180,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:46417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:46690,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47318,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47355,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47837,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:47950,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48515,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48795,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48840,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:48883,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49251,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:49326,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:49409,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49431,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49463,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:4954,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49856,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49960,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:49996,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:50457,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:50513,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:51040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:51055,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:51354,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:51961,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:52338,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:52558,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:52640,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:52776,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:53092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:53893,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:53995,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:54157,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:54293,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:54523,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:54948,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:54977,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:55327,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:55613,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:55723,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:55784,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:55941,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:56000,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:56415,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:56710,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57094,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57197,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57279,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57329,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57894,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:57987,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:58528,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:58755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:58984,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:59033,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:59167,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:59419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:59500,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:60212,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:6031,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:60658,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:60691,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:60781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:61156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:61158,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:61538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:61561,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62583,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:62744,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62774,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62802,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62857,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:62872,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:63863,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:64230,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:64560,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:64715,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:64755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:64967,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:65027,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:65714,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:65756,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:66281,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:66452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:66453,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:67062,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:68030,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:68154,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:68446,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:68554,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:68781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:69042,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:69342,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:69371,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:69400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:70129,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:70270,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:7034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:70364,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:70512,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:7098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:71639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:71901,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:72419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:7266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:73213,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:73633,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:74121,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:74234,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:7465,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:74970,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:75265,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:75363,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:76105,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:76391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:77628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:77781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:77788,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:77912,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:78034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:79209,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:79479,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:79518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:80704,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:80972,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:81352,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:81859,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:8266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:82696,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:82850,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:82971,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:83653,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:83823,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:84009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:84461,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:84603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:84692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:84694,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:85164,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:8521,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:85317,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:85395,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Baseline,atr:user:85636,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:85685,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:85907,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:86095,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Baseline,atr:user:87381,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:87429,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:87642,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:88130,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:88900,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:89403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:90079,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:91238,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:91332,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:91786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:92151,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:92831,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Baseline,atr:user:93040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:10391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:10734,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:10942,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:11703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:1195,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:13098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:14163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:15454,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:17392,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:17448,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:17843,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:18041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:18054,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:1808,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:18182,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:18786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:19294,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:20181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:20469,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:20480,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:20755,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:20914,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:20980,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Tuned,atr:user:21020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21067,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21075,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21229,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21301,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:21444,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21527,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21623,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:21834,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:22435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:22451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23025,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23607,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23805,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:23896,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:24077,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:24208,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:24405,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:25520,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:25538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:25952,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:2602,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26143,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26445,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26449,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Tuned,atr:user:26585,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26646,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:26814,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:26951,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:27080,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:27092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:27867,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:27908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:28525,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:28746,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29023,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29596,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29617,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:29996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:30224,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:30333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:30590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:3090,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:32237,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:32456,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:32781,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:33590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34412,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34750,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:34839,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:35298,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:35488,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:35537,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:357,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:35715,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36084,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36172,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36280,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:36531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36604,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:36946,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:3698,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:37097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:37215,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:37359,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:37761,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38148,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38316,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38428,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38770,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38771,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38799,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:38920,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:39452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:39659,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:39889,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:39989,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:40192,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:40451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:40610,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:40686,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:40716,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:42009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:42786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:42800,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:43115,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:43206,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:43748,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:43945,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:44010,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:44259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:44664,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:44785,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:44828,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:45319,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:46180,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:46417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:46690,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47318,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47355,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47837,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:47950,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48515,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48795,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48840,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:48883,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49251,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49326,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49409,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49431,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49463,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:4954,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49856,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49960,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:49996,1,0,0,0,0.0,0.0,0
+candidate_eligible,Content-based Tuned,atr:user:50457,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:50513,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:51040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:51055,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:51354,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:51961,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:52338,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:52558,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:52640,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:52776,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:53092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:53893,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:53995,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:54157,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:54293,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:54523,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:54948,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:54977,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:55327,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:55613,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:55723,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:55784,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:55941,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:56000,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:56415,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:56710,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57094,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57197,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57279,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57329,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57894,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:57987,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:58528,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:58755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:58984,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:59033,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:59167,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:59419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:59500,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:60212,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:6031,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:60658,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:60691,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:60781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:61156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:61158,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:61538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:61561,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62583,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62744,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62774,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62802,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62857,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:62872,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:63863,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:64230,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:64560,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:64715,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:64755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:64967,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:65027,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:65714,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:65756,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:66281,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:66452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:66453,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:67062,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:68030,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:68154,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:68446,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:68554,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:68781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:69042,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:69342,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:69371,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:69400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:70129,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:70270,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:7034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:70364,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:70512,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:7098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:71639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:71901,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:72419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:7266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:73213,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:73633,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:74121,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:74234,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:7465,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:74970,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:75265,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:75363,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:76105,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:76391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:77628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:77781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:77788,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:77912,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:78034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:79209,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:79479,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:79518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:80704,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:80972,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:81352,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:81859,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:8266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:82696,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:82850,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:82971,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:83653,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:83823,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:84009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:84461,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:84603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:84692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:84694,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:85164,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:8521,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:85317,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:85395,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:85636,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:85685,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:85907,1,10,1,1,0.1,1.0,1
+candidate_eligible,Content-based Tuned,atr:user:86095,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:87381,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:87429,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:87642,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:88130,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:88900,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:89403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:90079,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:91238,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:91332,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:91786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:92151,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:92831,1,10,0,0,0.0,0.0,1
+candidate_eligible,Content-based Tuned,atr:user:93040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:10391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:10734,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:10942,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:11703,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:1195,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:13098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:14163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:15454,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:17392,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:17448,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:17843,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:18041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:18054,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:1808,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:18182,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:18786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:19294,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:20181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:20469,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:20480,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:20755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:20914,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:20980,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21067,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21075,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21229,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21301,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21444,1,2,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21527,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21623,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:21834,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:22435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:22451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23025,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23607,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23805,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:23896,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:24077,1,6,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:24208,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:24405,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:25520,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:25538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:25952,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:2602,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26143,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26445,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26449,1,5,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26585,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26646,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26814,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:26951,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:27080,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:27092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:27867,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:27908,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:28525,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:28746,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29023,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29596,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29617,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:29996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:30224,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:30333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:30590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:3090,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:32237,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:32456,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:32781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:33590,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:34400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:34412,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:34531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:34639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:34750,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:34839,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:35298,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:35488,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:35537,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:357,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:35715,1,2,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36084,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36172,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36280,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36604,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:36946,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:3698,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:37097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:37215,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:37359,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:37761,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38148,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38316,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38428,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38435,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38770,1,6,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38771,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:38799,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:38920,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:39452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:39659,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:39889,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:39989,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:40192,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:40451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:40610,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:40686,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:40716,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:42009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:42786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:42800,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:43115,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:43206,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:43748,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:43945,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:44010,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:44259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:44664,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:44785,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:44828,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:45319,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:46180,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:46417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:46690,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47318,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47355,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47837,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:47950,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48515,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48795,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48840,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:48883,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49251,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49326,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49409,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49431,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49463,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:4954,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49856,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49960,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:49996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:50457,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:50513,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:51040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:51055,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:51354,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:51961,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:52338,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:52558,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:52640,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:52776,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:53092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:53893,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:53995,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:54157,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:54293,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:54523,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:54948,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:54977,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:55327,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:55613,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:55723,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:55784,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:55941,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:56000,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:56415,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:56710,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57094,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57197,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57279,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57329,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57894,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:57987,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:58528,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:58755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:58984,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:59033,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:59167,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:59419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:59500,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:60212,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:6031,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:60658,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:60691,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:60781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:61156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:61158,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:61538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:61561,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:62333,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62583,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Baseline,atr:user:62744,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62774,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62802,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62857,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:62872,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:63863,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:64230,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:64560,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:64715,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:64755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:64967,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:65027,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:65714,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:65756,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:66281,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:66452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:66453,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:67062,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:68030,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:68154,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:68446,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:68554,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:68781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:69042,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:69342,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:69371,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:69400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:70129,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:70270,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:7034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:70364,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:70512,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:7098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:71639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:71901,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:72419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:7266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:73213,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:73633,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:74121,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:74234,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:7465,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:74970,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:75265,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:75363,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:76105,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:76391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:77628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:77781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:77788,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:77912,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:78034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:79209,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:79479,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:79518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:80704,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:80972,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:81352,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:81859,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:8266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:82696,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:82850,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:82971,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:83653,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:83823,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:84009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:84461,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:84603,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:84692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:84694,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85164,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:8521,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85317,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85395,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85636,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85685,1,6,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:85907,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:86095,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:87381,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:87429,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:87642,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:88130,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:88900,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:89403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:90079,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:91238,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:91332,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:91786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:92151,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:92831,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Baseline,atr:user:93040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:10391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:10734,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:10942,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:11703,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:1195,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:13098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:14163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:15454,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:17392,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:17448,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:17843,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:18041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:18054,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:1808,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:18182,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:18786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:19294,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:20181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:20469,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:20480,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:20755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:20914,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:20980,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21067,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21075,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21229,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21301,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21444,1,2,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21527,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21623,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:21834,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:22435,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:22451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23025,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23607,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23703,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23805,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:23896,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:24077,1,6,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:24208,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:24405,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:25520,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:25538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:25952,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:2602,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26143,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26445,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26449,1,5,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26585,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26646,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26814,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:26951,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:27080,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:27092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:27867,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:27908,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:28525,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:28746,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29020,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29023,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29596,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29603,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29617,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:29996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:30224,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:30333,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:30590,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:3090,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:32237,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:32456,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:32781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:33590,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:34400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:34412,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:34531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:34639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:34750,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:34839,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:35298,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:35488,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:35537,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:357,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:35715,1,2,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36084,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36172,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36181,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36280,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36531,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36604,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36908,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:36946,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:3698,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:37097,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:37215,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:37359,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:37761,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38041,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38148,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38316,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38428,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38435,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38770,1,6,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38771,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:38799,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:38920,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:39452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:39659,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:39889,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:39989,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:40192,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:40451,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:40610,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:40686,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:40716,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:42009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:42786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:42800,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:43115,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:43206,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:43748,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:43945,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:44010,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:44259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:44664,1,5,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:44785,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:44828,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:45319,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:46180,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:46417,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:46690,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47259,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47318,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47355,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47837,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:47950,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48163,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48515,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48795,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48840,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:48883,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49251,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49326,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49409,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49431,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49463,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:4954,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49856,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49960,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:49996,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:50457,1,9,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:50513,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:51040,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:51055,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:51354,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:51961,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:52338,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:52558,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:52640,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:52776,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:53092,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:53893,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:53995,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:54157,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:54293,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:54523,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:54948,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:54977,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:55327,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:55613,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:55723,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:55784,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:55941,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:56000,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:56415,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:56710,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57094,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57197,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57279,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57329,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57894,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:57987,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:58528,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:58755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:58984,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:59033,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:59167,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:59419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:59500,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:60212,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:6031,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:60658,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:60691,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:60781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:61156,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:61158,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:61538,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:61561,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:62333,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62583,1,0,0,0,0.0,0.0,0
+candidate_eligible,Item-based KNN Tuned,atr:user:62744,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62774,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62802,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62857,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:62872,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:63863,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:64230,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:64560,1,4,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:64715,1,8,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:64755,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:64967,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:65027,1,3,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:65714,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:65756,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:66281,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:66452,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:66453,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:67062,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:68030,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:68154,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:68446,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:68554,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:68781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:69042,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:69342,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:69371,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:69400,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:70129,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:70270,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:7034,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:70364,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:70512,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:7098,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:71639,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:71901,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:72419,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:7266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:73213,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:73633,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:74121,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:74234,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:7465,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:74970,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:75265,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:75363,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:76105,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:76391,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:77628,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:77781,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:77788,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:77912,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:78034,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:79209,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:79479,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:79518,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:80704,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:80972,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:81352,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:81859,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:8266,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:82696,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:82850,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:82971,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:83653,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:83823,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:84009,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:84461,1,1,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:84603,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:84692,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:84694,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85164,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:8521,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85317,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85395,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85636,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85685,1,6,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:85907,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:86095,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:87381,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:87429,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:87642,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:88130,1,10,1,1,0.1,1.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:88900,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:89403,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:90079,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:91238,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:91332,1,7,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:91786,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:92151,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:92831,1,10,0,0,0.0,0.0,1
+candidate_eligible,Item-based KNN Tuned,atr:user:93040,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:10391,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:10734,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:10942,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:11703,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:1195,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:13098,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:14163,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:15454,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:17392,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:17448,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:17843,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:18041,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:18054,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:1808,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:18182,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:18786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:19294,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20181,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20469,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20480,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20755,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20914,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:20980,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:21020,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21067,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21075,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21097,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21229,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21301,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21444,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21527,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21623,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:21834,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:22435,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:22451,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:23025,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:23156,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:23607,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:23703,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:23805,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:23896,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:24077,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:24208,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:24405,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:25022,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:25520,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:25538,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:25952,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:2602,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26143,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26445,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26449,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:26585,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26646,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26814,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:26951,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:27080,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:27092,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:27867,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:27908,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:28525,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:28746,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29020,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29023,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29596,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29603,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29617,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:29996,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:30224,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:30333,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:30590,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:3090,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:32237,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:32456,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:32781,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:33039,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:33590,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34412,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34531,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34639,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34750,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:34839,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:35298,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:35488,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:35537,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:357,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:35715,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36084,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36172,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36181,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36280,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36531,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36604,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36908,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:36946,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:3698,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:37097,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:37215,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:37359,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:37761,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38041,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38148,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38316,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38417,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38428,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38435,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38770,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38771,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38799,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:38920,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:39452,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:39659,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:39889,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:39989,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:40192,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:40451,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:40610,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:40686,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:40716,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:42009,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:42267,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:42786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:42800,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:43115,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:43152,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:43206,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:43748,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:43945,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:44010,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:44259,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:44664,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:44785,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:44828,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:45116,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:45319,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:46180,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:46417,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:46690,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47259,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47318,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47355,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47628,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47837,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47950,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:47984,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48163,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48515,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48692,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48795,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48840,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:48883,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49251,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:49326,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:49409,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49431,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49463,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:4954,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49856,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49960,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:49996,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:50457,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:50513,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:50702,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:51040,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:51055,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:51354,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:51459,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:51961,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:52338,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:52558,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:52640,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:52776,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:53092,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:53893,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:53995,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:54157,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:54293,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:54523,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:54948,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:54977,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55327,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55328,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55613,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55723,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55784,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:55941,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:56000,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:56415,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:56710,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57081,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57094,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57197,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57279,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57329,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57403,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57828,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57894,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:57987,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:58528,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:58755,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:58984,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:59033,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:59167,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:59419,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:59500,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:60212,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:6031,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:60658,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:60691,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:60781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:61156,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:61158,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:61538,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:61561,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62333,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62518,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62583,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:62744,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62774,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62802,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62857,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:62872,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:63863,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:64230,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:64560,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:64715,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:64755,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:64967,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:65027,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:65714,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:65756,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:65963,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:66002,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:66281,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:66452,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:66453,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:67062,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:68030,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:68154,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:68446,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:68554,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:68781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:69042,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:691,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:69342,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:69371,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:69400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:70129,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:70270,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:7034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:70364,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:70512,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:7098,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:7152,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:71639,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:71901,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:72419,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:7266,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:73213,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:73633,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:74121,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:74234,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:7465,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:74970,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:75265,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:75363,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:76105,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:76391,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:77628,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:77781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:77788,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:77912,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:78034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:79209,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:79479,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:79518,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:80704,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:80972,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:81352,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:81859,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:8266,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:82696,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:82850,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:82971,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:83653,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:83823,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:84009,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:84461,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:84603,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:84692,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:84694,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:85164,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:8521,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:85317,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:85395,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Baseline,atr:user:85636,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:85685,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:85907,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:86095,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Baseline,atr:user:87381,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:87429,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:87642,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:88130,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:88900,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:89403,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:90079,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:91238,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:91332,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:91786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:92151,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:92831,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Baseline,atr:user:93040,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:10391,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:10734,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:10942,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:11703,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:1195,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:13098,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:14163,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:15454,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:17392,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:17448,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:17843,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:18041,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:18054,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:1808,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:18182,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:18786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:19294,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:20181,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:20469,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:20480,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:20755,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:20914,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:20980,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Tuned,atr:user:21020,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21067,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21075,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21097,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21229,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21301,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:21444,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21527,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21623,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:21834,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:22435,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:22451,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23025,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23156,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23607,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23703,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23805,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:23896,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:24077,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:24208,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:24405,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:25022,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:25520,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:25538,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:25952,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:2602,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26143,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26445,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26449,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Tuned,atr:user:26585,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26646,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:26814,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:26951,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:27080,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:27092,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:27867,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:27908,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:28525,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:28746,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29020,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29023,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29596,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29603,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29617,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:29996,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:30224,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:30333,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:30590,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:3090,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:32237,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:32456,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:32781,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:33039,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:33590,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34412,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34531,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34639,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34750,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:34839,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:35298,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:35488,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:35537,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:357,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:35715,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36084,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36172,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36181,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36280,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:36531,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36604,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36908,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:36946,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:3698,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:37097,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:37215,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:37359,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:37761,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38041,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38148,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38316,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38417,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38428,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38435,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38770,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38771,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38799,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:38920,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:39452,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:39659,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:39889,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:39989,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:40192,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:40451,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:40610,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:40686,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:40716,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:42009,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:42267,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:42786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:42800,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:43115,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:43152,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:43206,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:43748,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:43945,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:44010,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:44259,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:44664,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:44785,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:44828,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:45116,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:45319,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:46180,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:46417,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:46690,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47259,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47318,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47355,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47628,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47837,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47950,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:47984,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48163,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48515,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48692,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48795,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48840,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:48883,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49251,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49326,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49409,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49431,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49463,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:4954,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49856,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49960,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:49996,1,0,0,0,0.0,0.0,0
+all_relevant,Content-based Tuned,atr:user:50457,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:50513,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:50702,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:51040,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:51055,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:51354,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:51459,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:51961,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:52338,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:52558,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:52640,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:52776,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:53092,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:53893,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:53995,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:54157,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:54293,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:54523,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:54948,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:54977,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55327,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55328,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55613,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55723,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55784,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:55941,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:56000,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:56415,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:56710,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57081,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57094,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57197,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57279,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57329,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57403,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57828,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57894,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:57987,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:58528,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:58755,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:58984,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:59033,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:59167,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:59419,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:59500,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:60212,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:6031,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:60658,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:60691,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:60781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:61156,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:61158,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:61538,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:61561,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62333,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62518,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62583,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62744,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62774,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62802,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62857,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:62872,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:63863,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:64230,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:64560,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:64715,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:64755,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:64967,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:65027,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:65714,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:65756,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:65963,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:66002,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:66281,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:66452,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:66453,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:67062,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:68030,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:68154,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:68446,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:68554,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:68781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:69042,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:691,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:69342,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:69371,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:69400,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:70129,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:70270,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:7034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:70364,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:70512,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:7098,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:7152,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:71639,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:71901,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:72419,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:7266,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:73213,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:73633,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:74121,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:74234,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:7465,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:74970,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:75265,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:75363,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:76105,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:76391,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:77628,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:77781,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:77788,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:77912,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:78034,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:79209,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:79479,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:79518,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:80704,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:80972,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:81352,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:81859,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:8266,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:82696,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:82850,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:82971,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:83653,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:83823,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:84009,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:84461,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:84603,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:84692,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:84694,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:85164,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:8521,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:85317,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:85395,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:85636,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:85685,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:85907,1,10,1,1,0.1,1.0,1
+all_relevant,Content-based Tuned,atr:user:86095,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:87381,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:87429,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:87642,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:88130,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:88900,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:89403,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:90079,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:91238,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:91332,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:91786,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:92151,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:92831,1,10,0,0,0.0,0.0,1
+all_relevant,Content-based Tuned,atr:user:93040,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:10391,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:10734,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:10942,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:11703,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:1195,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:13098,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:14163,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:15454,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:17392,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:17448,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:17843,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:18041,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:18054,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:1808,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:18182,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:18786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:19294,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:20181,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:20469,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:20480,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:20755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:20914,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:20980,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21020,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21067,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21075,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21097,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21229,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21301,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21444,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21527,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21623,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:21834,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:22435,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:22451,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23025,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23156,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23607,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23703,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23805,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:23896,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:24077,1,6,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:24208,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:24405,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:25022,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:25520,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:25538,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:25952,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:2602,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26034,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26143,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26445,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26449,1,5,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26585,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26646,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26814,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:26951,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:27080,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:27092,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:27867,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:27908,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:28525,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:28746,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29020,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29023,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29596,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29603,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29617,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:29996,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:30224,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:30333,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:30590,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:3090,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:32237,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:32456,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:32781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:33039,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:33590,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:34400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:34412,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:34531,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:34639,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:34750,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:34839,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:35298,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:35488,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:35537,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:357,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:35715,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36084,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36172,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36181,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36280,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36531,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36604,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36908,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:36946,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:3698,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:37097,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:37215,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:37359,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:37761,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38041,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38148,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38316,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38417,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38428,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38435,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38770,1,6,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38771,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:38799,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:38920,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:39452,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:39659,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:39889,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:39989,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:40192,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:40451,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:40610,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:40686,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:40716,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:42009,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:42267,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:42786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:42800,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:43115,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:43152,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:43206,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:43748,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:43945,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:44010,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:44259,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:44664,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:44785,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:44828,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:45116,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:45319,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:46180,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:46417,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:46690,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47259,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47318,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47355,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47628,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47837,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47950,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:47984,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48163,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48515,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48692,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48795,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48840,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:48883,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49251,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49326,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49409,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49431,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49463,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:4954,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49856,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49960,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:49996,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:50457,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:50513,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:50702,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:51040,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:51055,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:51354,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:51459,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:51961,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:52338,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:52558,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:52640,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:52776,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:53092,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:53893,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:53995,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:54157,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:54293,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:54523,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:54948,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:54977,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:55327,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:55328,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:55613,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:55723,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:55784,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:55941,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:56000,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:56415,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:56710,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57081,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57094,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57197,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57279,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57329,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57403,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57828,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57894,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:57987,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:58528,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:58755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:58984,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:59033,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:59167,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:59419,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:59500,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:60212,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:6031,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:60658,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:60691,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:60781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:61156,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:61158,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:61538,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:61561,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:62333,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62518,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62583,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Baseline,atr:user:62744,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62774,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62802,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62857,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:62872,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:63863,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:64230,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:64560,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:64715,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:64755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:64967,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:65027,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:65714,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:65756,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:65963,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:66002,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:66281,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:66452,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:66453,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:67062,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:68030,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:68154,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:68446,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:68554,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:68781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:69042,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:691,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:69342,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:69371,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:69400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:70129,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:70270,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:7034,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:70364,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:70512,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:7098,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:7152,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:71639,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:71901,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:72419,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:7266,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:73213,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:73633,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:74121,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:74234,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:7465,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:74970,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:75265,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:75363,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:76105,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:76391,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:77628,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:77781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:77788,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:77912,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:78034,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:79209,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:79479,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:79518,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:80704,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:80972,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:81352,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:81859,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:8266,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:82696,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:82850,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:82971,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:83653,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:83823,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:84009,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:84461,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:84603,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:84692,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:84694,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85164,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:8521,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85317,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85395,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85636,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85685,1,6,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:85907,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:86095,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:87381,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:87429,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:87642,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:88130,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Baseline,atr:user:88900,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:89403,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:90079,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:91238,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:91332,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:91786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:92151,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:92831,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Baseline,atr:user:93040,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:10391,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:10734,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:10942,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:11703,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:1195,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:13098,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:14163,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:15454,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:17392,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:17448,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:17843,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:18041,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:18054,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:1808,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:18182,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:18786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:19294,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:20181,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:20469,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:20480,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:20755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:20914,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:20980,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21020,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21067,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21075,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21097,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21229,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21301,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21444,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21527,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21623,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:21834,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:22435,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:22451,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23025,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23156,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23607,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23703,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23805,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:23896,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:24077,1,6,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:24208,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:24405,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:25022,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:25520,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:25538,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:25952,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:2602,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26034,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26143,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26445,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26449,1,5,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26585,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26646,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26814,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:26951,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:27080,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:27092,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:27867,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:27908,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:28525,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:28746,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29020,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29023,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29596,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29603,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29617,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:29996,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:30224,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:30333,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:30590,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:3090,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:32237,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:32456,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:32781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:33039,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:33590,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:34400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:34412,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:34531,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:34639,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:34750,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:34839,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:35298,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:35488,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:35537,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:357,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:35715,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36084,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36172,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36181,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36280,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36531,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36604,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36908,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:36946,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:3698,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:37097,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:37215,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:37359,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:37761,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38041,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38148,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38316,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38417,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38428,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38435,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38770,1,6,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38771,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:38799,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:38920,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:39452,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:39659,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:39889,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:39989,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:40192,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:40451,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:40610,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:40686,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:40716,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:42009,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:42267,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:42786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:42800,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:43115,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:43152,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:43206,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:43748,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:43945,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:44010,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:44259,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:44664,1,5,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:44785,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:44828,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:45116,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:45319,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:46180,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:46417,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:46690,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47259,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47318,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47355,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47628,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47837,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47950,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:47984,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48163,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48515,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48692,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48795,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48840,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:48883,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49251,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49326,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49409,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49431,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49463,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:4954,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49856,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49960,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:49996,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:50457,1,9,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:50513,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:50702,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:51040,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:51055,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:51354,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:51459,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:51961,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:52338,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:52558,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:52640,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:52776,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:53092,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:53893,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:53995,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:54157,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:54293,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:54523,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:54948,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:54977,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:55327,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:55328,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:55613,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:55723,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:55784,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:55941,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:56000,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:56415,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:56710,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57081,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57094,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57197,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57279,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57329,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57403,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57828,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57894,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:57987,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:58528,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:58755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:58984,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:59033,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:59167,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:59419,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:59500,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:60212,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:6031,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:60658,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:60691,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:60781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:61156,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:61158,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:61538,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:61561,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:62333,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62518,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62583,1,0,0,0,0.0,0.0,0
+all_relevant,Item-based KNN Tuned,atr:user:62744,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62774,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62802,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62857,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:62872,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:63863,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:64230,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:64560,1,4,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:64715,1,8,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:64755,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:64967,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:65027,1,3,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:65714,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:65756,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:65963,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:66002,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:66281,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:66452,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:66453,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:67062,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:68030,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:68154,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:68446,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:68554,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:68781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:69042,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:691,1,2,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:69342,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:69371,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:69400,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:70129,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:70270,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:7034,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:70364,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:70512,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:7098,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:7152,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:71639,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:71901,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:72419,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:7266,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:73213,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:73633,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:74121,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:74234,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:7465,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:74970,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:75265,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:75363,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:76105,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:76391,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:77628,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:77781,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:77788,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:77912,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:78034,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:79209,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:79479,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:79518,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:80704,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:80972,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:81352,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:81859,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:8266,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:82696,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:82850,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:82971,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:83653,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:83823,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:84009,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:84461,1,1,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:84603,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:84692,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:84694,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85164,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:8521,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85317,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85395,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85636,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85685,1,6,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:85907,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:86095,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:87381,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:87429,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:87642,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:88130,1,10,1,1,0.1,1.0,1
+all_relevant,Item-based KNN Tuned,atr:user:88900,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:89403,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:90079,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:91238,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:91332,1,7,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:91786,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:92151,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:92831,1,10,0,0,0.0,0.0,1
+all_relevant,Item-based KNN Tuned,atr:user:93040,1,10,0,0,0.0,0.0,1
