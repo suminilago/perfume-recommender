@@ -9,7 +9,7 @@
 ## 실행
 
 1. 최초 1회: `pip install -r requirements.txt`
-2. 저장소 루트의 `data_v2/` 폴더에 `preprocessing/result_v2.zip`의 CSV를 넣음 (`data_v2/`는 `.gitignore` 대상이라 저장소에 포함되지 않음)
+2. 저장소 루트의 `data/` 폴더에 `preprocessing/result_v2.zip`의 CSV를 넣음 (`data_v2/`는 `.gitignore` 대상이라 저장소에 포함되지 않음)
 3. 저장소 루트에서 `run_recommender_gui.ipynb`를 열고 모두 실행(Run All)
 4. 새 창에서 [콘텐츠 기반 필터링] 또는 [협업 필터링]을 클릭. 창을 닫으면 셀 실행이 끝남
    - 창이 안 보이면 작업 표시줄에서 "향수 추천 시스템" 창을 찾기
