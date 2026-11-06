@@ -1,5 +1,9 @@
 # Recommendation Model Evaluation
 
+본 문서는 향수 추천 시스템의 V1 및 V2 평가 결과를 기록한다.
+
+## Part 1. V1 평가 (이전 실험)
+
 ## 1. 평가 목적
 
 Content-based Filtering과 Item-based KNN의 추천 성능을 동일한 조건에서 비교.
@@ -98,3 +102,85 @@ Content-based 모델의 Hit Rate@10이 Item-based KNN보다 0.0039 높음.
 - 공통 후보 향수로 평가 범위 제한
 - 실제 평가에서 제외된 사용자 존재
 - 단일 데이터 분할 결과만으로 일반화하기 어려움
+
+---
+
+## Part 2. V2 평가 및 하이퍼파라미터 최적화
+
+### 9. V2 평가 목적
+
+Fragrantica 콘텐츠 데이터와 Atrafshan 사용자 평점 데이터를 활용하여 Content-based Filtering과 Item-based KNN의 추천 성능을 비교하였다.
+
+Baseline 성능 측정 후 별도의 검증 데이터에서 총 25개 하이퍼파라미터 설정을 평가하고, 선정된 설정을 최종 테스트 데이터에 적용하였다.
+
+### 10. V2 평가 데이터
+
+- Fragrantica 콘텐츠 데이터: 140,232개 향수
+- 콘텐츠 기반 모델 사용 가능 향수: 137,677개
+- Atrafshan 사용자 평점: 5,565건
+- 공통 추천 후보: 738개 향수
+- Leave-One-Out 테스트 사용자: 383명
+- 관련 정답 보유 사용자: 315명
+- 공통 후보에 관련 정답이 포함된 사용자: 300명
+- 하이퍼파라미터 검증 관련 사용자: 217명
+
+관련 정답은 향수 평점 7점 이상으로 정의하였다.
+
+학습/검증 및 학습/테스트 간 사용자–향수 쌍의 중복은 0건으로 확인하였다.
+
+### 11. 하이퍼파라미터 탐색
+
+Content-based는 `brand_weight` 5개 값과 `like_threshold` 4개 값으로 총 20개 조합을 평가하였다.
+
+- 기존 설정: `brand_weight=0.2`, `like_threshold=7`
+- 검증 최고 설정: `brand_weight=0.5`, `like_threshold=6` 또는 `8`
+- 검증 최고 Hit Rate@10: 0.0599
+
+Item-based KNN은 `shrinkage` 5개 값을 비교하였다.
+
+- 기존 설정: `k=20`, `shrinkage=10`
+- 검증 최고 설정: `shrinkage=0` 또는 `50`
+- 검증 최고 Hit Rate@10: 0.0415
+
+최종 테스트에는 Content-based의 `brand_weight=0.5`, `like_threshold=6`과 KNN의 `shrinkage=0`을 적용하였다.
+
+### 12. 최종 테스트 평가 결과
+
+공통 후보에 관련 정답이 포함된 사용자 300명을 대상으로 평가하였다.
+
+| 모델 | Hit Rate@10 | Precision@10 | Recall@10 | 성공 건수 |
+|---|---:|---:|---:|---:|
+| Content-based Baseline | 0.0467 | 0.0047 | 0.0467 | 14 |
+| **Content-based Tuned** | **0.0633** | **0.0063** | **0.0633** | **19** |
+| Item-based KNN Baseline | 0.0533 | 0.0053 | 0.0533 | 16 |
+| Item-based KNN Tuned | 0.0567 | 0.0057 | 0.0567 | 17 |
+
+Content-based는 Baseline 대비 약 1.67%p, KNN은 약 0.33%p 개선되었다.
+
+관련 정답을 가진 전체 사용자 315명 기준에서도 Content-based Tuned 모델이 가장 높은 Hit Rate@10인 0.0603을 기록하였다.
+
+### 13. 추천 후보 및 평가의 한계
+
+검증 데이터에서 KNN 학습 후보는 722개였으며, 관련 정답 217개 중 11개는 KNN으로 추천할 수 없었다. 이러한 정답도 평가에서 제외하지 않고 실패로 처리하였다.
+
+최종 테스트 역시 KNN은 학습 데이터에 존재하는 아이템만 추천하도록 구성하였다.
+
+사용자 평점 데이터의 희소성, 제한된 공통 후보 집합, 단일 데이터 분할, 낮은 추천 성공률 등의 한계가 존재한다.
+
+### 14. V2 평가 결론
+
+최종 테스트에서 Content-based Tuned 모델이 Hit Rate@10 0.0633으로 가장 높은 성능을 기록하였다.
+
+두 모델 모두 하이퍼파라미터 최적화 이후 성능이 개선되었지만, 성공 건수 차이가 작으므로 통계적으로 유의한 개선이라고 단정할 수는 없다.
+
+V1과 V2는 데이터 규모, 매핑 및 평가 대상이 달라 성능 수치를 직접 비교하지 않는다.
+
+### 15. 관련 파일
+
+- `evaluate_v2.ipynb`: V2 평가 및 하이퍼파라미터 탐색
+- `results/model_comparison_v2.csv`: Baseline 결과
+- `results/hyperparameter_results_v2.csv`: 검증 실험 결과
+- `results/best_hyperparameters_v2.csv`: 최적 설정
+- `results/final_model_comparison_v2.csv`: 최종 성능 비교
+- `results/final_user_metrics_v2.csv`: 사용자별 평가
+- `results/final_improvement_v2.csv`: Baseline 대비 개선 폭

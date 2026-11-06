@@ -230,3 +230,10 @@ evaluation/results/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# V2 large datasets and temporary files
+data_v2/
+v2_temp/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
